@@ -17,7 +17,7 @@ Price to Earnings (PE ration) ratio is a good indicator of the true price of a s
 
 * Current and fixed assets
 * Current assets:
-  * Cash, Accts. Rec, Inv.
+  * Cash, Accounts Receivable, Inventory.
 * Fixed:
   * Np & E
 
@@ -25,9 +25,25 @@ Price to Earnings (PE ration) ratio is a good indicator of the true price of a s
 
 * Current Liabilities:
   * Accruals
-  * Accts. Payable (Debts)
+  * Accounts Payable (Debts)
   * Notes Payable (Debts from banks)
 * Long-term debt (Municipal bonds, debt from banks, investors, etc...)
   * Owner's Equity:
     * Retained Earnings
     * Common Stock
+
+## Income Statement
+
+* Sales/Revenue
+* Cost of Goods Sold (COGS)
+* Depreciation & Amortization
+* EBIT (Earnings Before Interest & Tax)
+* EBIT - Interest = EBT (Or operating income)
+* EBT - Taxes = Net Income
+
+## Statement of Cash Flows
+
+* Cash Balance at the beginning of the year
+* Operating activities:
+  * Net Income + Depreciation & Amortization
+  * Increase in Accounts Payable
