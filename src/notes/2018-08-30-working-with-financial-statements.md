@@ -47,3 +47,9 @@ Price to Earnings (PE ration) ratio is a good indicator of the true price of a s
 * Operating activities:
   * Net Income + Depreciation & Amortization
   * Increase in Accounts Payable
+  * An increase in assets is a decrease in cash
+  * An increase in liabilities increase in cash ? (Huh?)
+* Financing activities:
+  * Decrease in NP
+  * Decrease in Long term debt
+  * Dividends paid
