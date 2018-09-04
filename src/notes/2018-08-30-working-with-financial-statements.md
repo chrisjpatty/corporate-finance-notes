@@ -53,3 +53,12 @@ Price to Earnings (PE ration) ratio is a good indicator of the true price of a s
   * Decrease in NP
   * Decrease in Long term debt
   * Dividends paid
+
+## Comparing Financial Statements
+
+* Common size Income Statement takes each item and divides by sales
+* Common size balance sheet takes each item and divides by Total Assets
+
+
+
+\* Treasury stock is common stock that has been bought back by the company.
