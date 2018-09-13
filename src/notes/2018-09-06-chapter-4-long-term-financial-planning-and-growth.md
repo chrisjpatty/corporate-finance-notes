@@ -3,8 +3,6 @@ layout: blog
 title: 'Chapter 4: Long-Term Financial Planning and Growth'
 date: '2018-09-06T16:15:29-06:00'
 ---
-
-
 # Elements of a Financial Plan
 
 1. Forecast sales
@@ -14,7 +12,7 @@ date: '2018-09-06T16:15:29-06:00'
 4. The amount of cash that the firm thinks is appropriate to pay to shareholders (dividends)
 5. The amount of working capital that the company needs to maintain
 
-# Creating Pro-Forma or "Forecasted" Financial Statements 
+# Creating Pro-Forma or "Forecasted" Financial Statements
 
 * The 3 external accounts
   * Notes Payable
@@ -49,3 +47,12 @@ date: '2018-09-06T16:15:29-06:00'
 
 * Is equal to (1 - POR) 
 * POR stands for Payout Ratio
+
+## Full capacity sales
+
+* The sales we can achieve if we are operating at full capacity. (without purchasing any more fixed assets)
+
+## Max Growth Rate
+
+* The largest we can grow our sales, without purchasing more fixed assets.
+*
