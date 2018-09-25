@@ -6,6 +6,7 @@ date: '2018-09-18T15:28:01-06:00'
 # What is capital?
 
 * Capital consists of capital raised from debt, and capital raised from equity.
+* **\* The price of a stock today, is the present value of all future cash flows**
 
 ## Common Stock
 
