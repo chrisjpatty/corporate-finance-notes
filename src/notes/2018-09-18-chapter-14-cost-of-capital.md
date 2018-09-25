@@ -40,4 +40,9 @@ date: '2018-09-18T15:28:01-06:00'
 ## Security Market Line (SML)
 
 * CAPM = E(R) = R<sub>f</sub> + B(R<sub>m</sub> - R<sub>p</sub>)
-*
+
+# Bonds
+
+* For this class, we will assume that the face value of bonds is $1000.
+* The coupon payment = Interest Rate Payment. This is the interest rate on the face value of the bond.
+* The face value is the amount you will get after the bond matures.
