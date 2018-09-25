@@ -46,3 +46,6 @@ date: '2018-09-18T15:28:01-06:00'
 * For this class, we will assume that the face value of bonds is $1000.
 * The coupon payment = Interest Rate Payment. This is the interest rate on the face value of the bond.
 * The face value is the amount you will get after the bond matures.
+* **Par**: Trading at face value.
+* **Premium**: Trading above face value.
+* **Discount**: Trading below face value.
