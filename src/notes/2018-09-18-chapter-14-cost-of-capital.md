@@ -50,3 +50,8 @@ date: '2018-09-18T15:28:01-06:00'
 * **Par**: Trading at face value.
 * **Premium**: Trading above face value.
 * **Discount**: Trading below face value.
+
+# Weighted Average Cost of Capital
+
+* **The weights are determined by market values, not by book values.**
+*
