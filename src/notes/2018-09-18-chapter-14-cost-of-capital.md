@@ -55,3 +55,9 @@ date: '2018-09-18T15:28:01-06:00'
 
 * **The weights are determined by market values, not by book values.**
 * Remember! When the payments are semiannual, **I/Y** is multiplied by 2.
+
+## Price per share (P<sub>0</sub>)
+
+* V**<sub>0</sub> :** value of assets
+  * This is the present value (PV) of all future cash flows from assets
+*
