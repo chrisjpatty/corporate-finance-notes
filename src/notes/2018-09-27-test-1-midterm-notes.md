@@ -43,4 +43,6 @@ date: '2018-09-27T16:20:05-06:00'
 
 * You need to know the financial planning process.
 * The first part of creating a financial plan is to forecast sales. (This is going to be the answer to one of the questions)
-* "If you see _excess capacity_, you need to immediately think of '_full capacity sales_'"
+* "If you see _excess capacity_, you need to immediately think of '_full capacity sales_'".
+* If your projected sales are less than your full capacity sales, then you have excess. 
+* If your full capacity sales equals your projected sales, then your total amount of fixed assets is sufficient to operate at full capacity. If it's less, then you need to find out what your required level of fixed assets is to operate at full capacity.
