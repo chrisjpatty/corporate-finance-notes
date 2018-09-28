@@ -46,3 +46,4 @@ date: '2018-09-27T16:20:05-06:00'
 * "If you see _excess capacity_, you need to immediately think of '_full capacity sales_'".
 * If your projected sales are less than your full capacity sales, then you have excess. 
 * If your full capacity sales equals your projected sales, then your total amount of fixed assets is sufficient to operate at full capacity. If it's less, then you need to find out what your required level of fixed assets is to operate at full capacity.
+*
