@@ -17,6 +17,7 @@ date: '2018-09-27T16:20:05-06:00'
 * Know the retention ratio: How much we're reinvesting into the company.
 * Am I returning anything to my stockholders?
   * Look at the ROE
+
 * Know the flow of an income statement
 * The balance sheet is a snapshot in time.
   * Assets has to equal our debts plus our equity
