@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Test 1 midterm Notes
+title: Test 1 Midterm Notes
 date: '2018-09-27T16:20:05-06:00'
 ---
 * Now your sources and uses of cash. 
