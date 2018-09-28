@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Test 1 Midterm Notes
+title: Test 1 Midterm Notes (Includes all our professor's hints about the exam)
 date: '2018-09-27T16:20:05-06:00'
 ---
 **\*The questions on the test will be in order by chapter (not shuffled)**
