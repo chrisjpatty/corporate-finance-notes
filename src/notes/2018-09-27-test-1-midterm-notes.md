@@ -43,4 +43,4 @@ date: '2018-09-27T16:20:05-06:00'
 
 * You need to know the financial planning process.
 * The first part of creating a financial plan is to forecast sales. (This is going to be the answer to one of the questions)
-*
+* "If you see _excess capacity_, you need to immediately think of '_full capacity sales_'"
