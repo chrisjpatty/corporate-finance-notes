@@ -52,6 +52,9 @@ export default {
       {
         path: '/',
         component: 'src/containers/Home',
+        getData: () => ({
+          posts
+        })
       },
       {
         path: '/about',
