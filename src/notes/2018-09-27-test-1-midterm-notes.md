@@ -15,5 +15,18 @@ date: '2018-09-27T16:20:05-06:00'
       * We borrow, or use internal money
 * Know the payout ratio: The percent we're paying out.
 * Know the retention ratio: How much we're reinvesting into the company.
+* Am I returning anything to my stockholders?
+  * Look at the ROE
+* Know the flow of an income statement
+* The balance sheet is a snapshot in time.
+  * Assets has to equal our debts plus our equity
+* Statement of cash flows is important for the first two questions on the exam.
+  * If there is an increase in Accounts Rec, there was a decrease in cashflows. This was an operating activity.
+  * If an asset went up, it means cash went down.
+  * If we have an increase in a liability, we have an increase in cash. 
+  * Operating activities are cash, accounts receivables, inventories, etc.
+  * Investing activities have to do with long-term fixed assets. 
+  * Financing activities are dividends, issuing of stock, etc.
+  * Question format: If there's an increase in accounts receivable, theres a \_\_\_\_\_ in \_\_\_\_\___.
 
 At 6:00 there's a review session.
