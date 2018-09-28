@@ -34,5 +34,7 @@ date: '2018-09-27T16:20:05-06:00'
 * Know the net income you're generating for every $ of sales. (Du Pont equation?)
 * If you have (Total Debt / Total Assets) of .60, then (Total Equity / Total Assets) would be .40, or (1 - (TD/TA))
   * Then, if you need (Total Assets / Total Equity), take the reciprocal by flipping both sides of the equation.
+* You should know how to common size a balance sheet.
+* There will be a question where you have to find net income by using the Du Pont equation. And you start with the Debt to Equity ratio. 
 
 At 6:00 there's a review session.
