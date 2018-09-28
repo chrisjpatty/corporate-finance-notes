@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Working with Financial Statements
+title: 'Chapter 3: Working with Financial Statements'
 date: '2018-08-30T15:44:19-06:00'
 ---
 Price to Earnings (PE ration) ratio is a good indicator of the true price of a stock.
