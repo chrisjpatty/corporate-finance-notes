@@ -3,6 +3,8 @@ layout: blog
 title: Test 1 Midterm Notes
 date: '2018-09-27T16:20:05-06:00'
 ---
+# Chapter 3
+
 * Now your sources and uses of cash. 
 * Know whether it's an operating, investing, or financing activity.
 * Know the dupont equation. Know what each term means.
@@ -37,4 +39,6 @@ date: '2018-09-27T16:20:05-06:00'
 * You should know how to common size a balance sheet.
 * There will be a question where you have to find net income by using the Du Pont equation. And you start with the Debt to Equity ratio. 
 
-At 6:00 there's a review session.
+# Chapter 4
+
+* You need to know the financial planning process.
