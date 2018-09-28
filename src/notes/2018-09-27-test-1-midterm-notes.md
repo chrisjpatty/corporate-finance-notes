@@ -30,5 +30,6 @@ date: '2018-09-27T16:20:05-06:00'
   * Question format: If there's an increase in accounts receivable, theres a \_\_\_\_\_ in \_\_\_\_\___.
 * \* A common size income statement takes every line on the income statement and divides it by sales.
 * If asked to solve for the common-size level of \[something], solve for sales if you don't have it, and then divide by sales.
+* Know the net income you're generating for every $ of sales. (Du Pont equation?)
 
 At 6:00 there's a review session.
