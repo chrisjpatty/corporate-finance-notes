@@ -47,4 +47,6 @@ date: '2018-09-27T16:20:05-06:00'
 * If your projected sales are less than your full capacity sales, then you have excess. 
 * If your full capacity sales equals your projected sales, then your total amount of fixed assets is sufficient to operate at full capacity. If it's less, then you need to find out what your required level of fixed assets is to operate at full capacity.
   * To do this: ( Actual fixed assets) / Full Capacity Sales ) x Projected Sales = The required level of fixed assets (to operate at full capacity).
+* There will be a problem where you'll need to use the Du Pont equation to find ROE.
+* You need to know how to forecast financial statements. It will probably be similar to question 1 on the worksheet.
 *
