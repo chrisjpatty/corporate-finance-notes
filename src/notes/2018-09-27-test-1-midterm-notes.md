@@ -72,3 +72,4 @@ date: '2018-09-27T16:20:05-06:00'
 * The cost of debt is the yield to maturity on our bonds. 
 * There will be a question that is exactly like question 11 on the worksheet, but with different numbers.
 * The **geometric average** will not be on the exam.
+* Formula sheets will be posted on canvas by tonight (Thursday Sep 27)
