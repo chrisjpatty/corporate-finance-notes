@@ -57,4 +57,5 @@ date: '2018-09-27T16:20:05-06:00'
 * **If the tax rate increases, the after tax cost of debt goes down**
   * This will probably be almost verbatim on the test.
   * Our US financial system incentivizes using debt to get capital.
-*
+* **How do we measure the cost of preferred stock?**
+  * It's the required rate of return on a perpetuity. (Probs on the test)
