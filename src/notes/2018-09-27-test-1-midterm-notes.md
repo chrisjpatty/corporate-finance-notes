@@ -73,3 +73,6 @@ date: '2018-09-27T16:20:05-06:00'
 * There will be a question that is exactly like question 11 on the worksheet, but with different numbers.
 * The **geometric average** will not be on the exam.
 * Formula sheets will be posted on canvas by tonight (Thursday Sep 27)
+* The after-tax-cost-of-debt question on the homework doesn't have the correct answer. The correct answer is between two answers. (He's giving everyone full points)
+* Know how to calculate the cost of equity.
+* Know how to calculate the cost of debt.
