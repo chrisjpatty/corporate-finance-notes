@@ -42,5 +42,5 @@ date: '2018-09-27T16:20:05-06:00'
 # Chapter 4
 
 * You need to know the financial planning process.
-* The first thing you do is to forecast sales. (This is going to be the answer to one of the questions)
+* The first part of creating a financial plan is to forecast sales. (This is going to be the answer to one of the questions)
 *
