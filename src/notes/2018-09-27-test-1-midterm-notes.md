@@ -32,5 +32,7 @@ date: '2018-09-27T16:20:05-06:00'
 * \* A common size income statement takes every line on the income statement and divides it by sales.
 * If asked to solve for the common-size level of \[something], solve for sales if you don't have it, and then divide by sales.
 * Know the net income you're generating for every $ of sales. (Du Pont equation?)
+* If you have (Total Debt / Total Assets) of .60, then (Total Equity / Total Assets) would be .40, or (1 - (TD/TA))
+  * Then, if you need (Total Assets / Total Equity), take the reciprocal by flipping both sides of the equation.
 
 At 6:00 there's a review session.
