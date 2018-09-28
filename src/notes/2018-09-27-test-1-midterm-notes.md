@@ -3,6 +3,8 @@ layout: blog
 title: Test 1 Midterm Notes
 date: '2018-09-27T16:20:05-06:00'
 ---
+**\*The questions on the test will be in order by chapter (not shuffled)**
+
 # Chapter 3
 
 * Know your sources and uses of cash. 
@@ -59,3 +61,4 @@ date: '2018-09-27T16:20:05-06:00'
   * Our US financial system incentivizes using debt to get capital.
 * **How do we measure the cost of preferred stock?**
   * It's the required rate of return on a perpetuity. (Probs on the test)
+* The cost of debt is like the required rate of return on an annuity, but with a lump sum at the end.
