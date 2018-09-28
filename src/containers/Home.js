@@ -6,6 +6,7 @@ export default withRouteData(withSiteData(({posts}) => {
   return (
     <div>
       <h1 style={{ textAlign: 'center' }}>Corporate Finance Notes</h1>
+      <h3 style={{ textAlign: 'center' }}>By: <a href="https://www.twitter.com/chrisjpatty">@chrisjpatty</a></h3>
       <ul>
         {
           posts.map((post, i) => (
