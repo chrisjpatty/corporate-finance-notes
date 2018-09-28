@@ -63,4 +63,6 @@ date: '2018-09-27T16:20:05-06:00'
   * Our US financial system incentivizes using debt to get capital.
 * **How do we measure the cost of preferred stock?**
   * It's the required rate of return on a perpetuity. (Probs on the test)
-* The cost of debt is like the required rate of return on an annuity, but with a lump sum at the end.
+
+* The cost of debt is like the required rate of return on an annuity, but with a lump sum at the end. 
+*
