@@ -5,6 +5,8 @@ date: '2018-09-27T16:20:05-06:00'
 ---
 **\*The questions on the test will be in order by chapter (not shuffled)**
 
+**\*There will probably be a "mulligan" allowed, so you can afford to miss one question for free.**
+
 # Chapter 3
 
 * Know your sources and uses of cash. 
