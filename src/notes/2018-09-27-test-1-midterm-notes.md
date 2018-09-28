@@ -42,3 +42,4 @@ date: '2018-09-27T16:20:05-06:00'
 # Chapter 4
 
 * You need to know the financial planning process.
+*
