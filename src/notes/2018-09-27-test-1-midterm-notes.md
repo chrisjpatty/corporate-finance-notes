@@ -49,4 +49,12 @@ date: '2018-09-27T16:20:05-06:00'
   * To do this: ( Actual fixed assets) / Full Capacity Sales ) x Projected Sales = The required level of fixed assets (to operate at full capacity).
 * There will be a problem where you'll need to use the Du Pont equation to find ROE.
 * You need to know how to forecast financial statements. It will probably be similar to question 1 on the worksheet.
+
+# Chapter 14
+
+* R<sub>D</sub> is the Pre-Tax Cost of Debt.
+* R<sub>D</sub>(1-T) is the After-Tax Cost of Debt.
+* **If the tax rate increases, the after tax cost of debt goes down**
+  * This will probably be almost verbatim on the test.
+  * Our US financial system incentivizes using debt to get capital.
 *
