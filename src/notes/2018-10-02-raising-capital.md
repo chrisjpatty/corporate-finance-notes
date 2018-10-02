@@ -3,7 +3,7 @@ layout: blog
 title: Raising Capital
 date: '2018-10-02T15:10:18-06:00'
 ---
-# How dow we raise capital?
+# How do we raise capital?
 
 * Money invested from family members
 * Take out a loan from a bank
