@@ -41,3 +41,10 @@ date: '2018-10-02T15:10:18-06:00'
 # IPO Underpricing
 
 * There's an incentive to underprice an IPO a little bit.
+
+# Stock Rights
+
+* Why might a company have a rights offering rather than a general cash offer?
+  * It's more cost effective to sell to existing investors.
+  * You want current investors to have the chance to maintain their proportional ownership.
+*
