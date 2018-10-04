@@ -36,4 +36,8 @@ date: '2018-10-02T15:10:18-06:00'
 * **Firm commitment cash offer** - Company negotiates an agreement with an investment banker to underwrite and distribute the new shares. A specified number of shares are bought by underwriters and sold at a higher price.
 * **Best efforts cash offer** - Company has investment bankers sell as many of the new shares as possible at the agreed-upon price. There is no guarantee about how much capital will be raised.
 * **Dutch Auction cash offer** - The investment bankers auction shares to determine the highest offer price obtainable for a given number of shares to be sold. 
-* **Direct rights offer** - The company offers the new stock directly to its existing shareholders. This avoids diluting your ownership.
+* **Direct rights offer** - The company offers the new stock directly to its existing shareholders. This avoids diluting your ownership. 
+
+# IPO Underpricing
+
+* There's an incentive to underprice an IPO a little bit.
