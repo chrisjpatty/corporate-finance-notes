@@ -29,7 +29,7 @@ date: '2018-10-02T15:10:18-06:00'
 * If everything is **copasetic** with the SEC, a price is set and a full-fledged selling effort starts.
 * When multiple investment bankers are working on the same IPO, it's called a **syndicate**. 
   * This is a group of **underwriters**.
-* If it's an **unsyndicated offer**, it means the **only 1** investment banker is taking the company public.
+* If it's an **un-syndicated offer**, it means the **only 1** investment banker is taking the company public.
 
 ## Types of Public Issues
 
