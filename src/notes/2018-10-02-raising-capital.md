@@ -47,4 +47,16 @@ date: '2018-10-02T15:10:18-06:00'
 * Why might a company have a rights offering rather than a general cash offer?
   * It's more cost effective to sell to existing investors.
   * You want current investors to have the chance to maintain their proportional ownership.
-*
+* The number of rights per share refers to the number of rights an existing investor is required to use to purchase one new share. If you only have a few shares, it's possible you won't have enough rights to buy a new share.
+
+# Floatation Cost
+
+* **Floatation Cost** - The cost to issue. If you raised 5 million and it cost 500,000 to raise, you would take 500,000 / 5 million to find out the cost per dollar to raise.
+* **Direct Costs:**
+  * Legal fees
+  * Filing fees
+  * **Underwriting spread** - The difference between what you sold to the investment bank for, and what they sell the stock for.
+  * Taxes (We'll ignore this for our purposes)
+* **Indirect Costs**:
+  * Costs of time management spent.
+  * Losses selling below true value.
