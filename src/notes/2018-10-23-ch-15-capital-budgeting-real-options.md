@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ch. 15 - Capital Budgeting - Real Options
+title: Capital Budgeting - Real Options
 date: '2018-10-23T15:34:05-06:00'
 ---
 # Call Options
