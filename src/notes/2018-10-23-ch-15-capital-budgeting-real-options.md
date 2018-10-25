@@ -15,3 +15,15 @@ date: '2018-10-23T15:34:05-06:00'
 # Put Options
 
 * **Put Option** gives the buyer the right to sell their stock at a pre-specified price.
+
+## Financial options
+
+* On an underlying security that's traded either over the counter, or on an exchange
+
+## Real Options
+
+* An option on a **real** asset.
+* Investment timing option
+* Growth
+* Opportunity
+* Abandonment
