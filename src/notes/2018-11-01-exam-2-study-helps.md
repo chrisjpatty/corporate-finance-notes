@@ -3,9 +3,9 @@ layout: blog
 title: Exam 2 Study Helps
 date: '2018-11-01T15:21:55-06:00'
 ---
-One the test:
+## One the test:
 
-* Black Schulls Option Pricing
+* Black Schulls Option Pricing will be on the test. It's time consuming, so make sure you practice it. Spot price is the price of the underlying asset today.
 * Know what each of the decision tools is.
 * NPV is the initial cost + the present value of all future cash flows.
 * Know all of the pros and cons for each of the decision tools
@@ -33,3 +33,4 @@ One the test:
   * Flexibility
   * Abandonment
 * Know the difference between a real option, and a financial option.
+* You **don't** have to calculate multiple IRRs (quadratic formula).
