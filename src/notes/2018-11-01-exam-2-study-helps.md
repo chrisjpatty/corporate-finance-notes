@@ -26,3 +26,10 @@ One the test:
     * You solve for the IRR of the difference between the cashflows of the two projects.
 * NPV is _generally_ the superior decision tool. Buuuut, if your NPV is 0, it means that your return equals your cost of capital, so you may need other decision tools to figure it out.
 * If you see MIRR (Modified Internal Rate of Return), you need to draw a timeline.
+  * On that timeline, any negative value you see, bring it back to the beginning (discount it back). Any positive cash flow, you're moving out to the end.
+* Know the different types of options:
+  * Expansion
+  * Investment timing
+  * Flexibility
+  * Abandonment
+* Know the difference between a real option, and a financial option.
