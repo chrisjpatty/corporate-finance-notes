@@ -25,3 +25,4 @@ One the test:
   * On the test you're going to have to create the tables for finding the crossover rate.
     * You solve for the IRR of the difference between the cashflows of the two projects.
 * NPV is _generally_ the superior decision tool. Buuuut, if your NPV is 0, it means that your return equals your cost of capital, so you may need other decision tools to figure it out.
+* If you see MIRR (Modified Internal Rate of Return), you need to draw a timeline.
