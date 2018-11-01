@@ -34,3 +34,22 @@ date: '2018-11-01T15:21:55-06:00'
   * Abandonment
 * Know the difference between a real option, and a financial option.
 * You **don't** have to calculate multiple IRRs (quadratic formula).
+
+## Ch. 10
+
+* Problem #5 is **not** on the test.
+* Understand what an expansion project is. (Be able to identify which thing out of a list is an expansion project).
+* Know the difference between Net Cash Flow & Accounting income
+  * NCF adds back in depreciation and ignores interest expense because we've already incorporated interest expense into the Weighted Average Cost of Capital.
+* Know what an incremental cash flow is.
+* Sunk Costs
+* Opportunity costs
+* Extranalities 
+  * Within the firm and without the firm.
+  * Definitely know cannibalization.
+* There will be 2 work-out problems from this chapter, and they will both be similar to #3 and #4. 
+* Anything going along with the price of equipment, (price of installation, training, etc.) Is all depreciable. 
+* When liabilities go up, cash goes up.
+* When inventory goes up, cash goes down.
+* The **tax shield OCF** is just sales minus (all of your costs, it could be fixed costs, or others. It's just **all** of your costs).
+*
